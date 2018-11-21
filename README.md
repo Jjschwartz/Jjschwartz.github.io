@@ -3,7 +3,7 @@
 **Autonomous Penetration Testing using Reinforcement Learning**  
 Jonathon Schwartz  
 Honours thesis, Bachelor of Science with a major in Computer Science, University of Queensland  
-Submitted in November 2018
+Submitted in November 2018  
 Supervised by Dr. Hanna Kurniawati  
 [thesis](publications/2018_CS_honours_thesis.pdf) | [code](https://github.com/Jjschwartz/NetworkAttackSimulator)  
 
@@ -15,6 +15,6 @@ Published in the Journal of Conservation physiology, volume 3, issue 1, 2015.
 **Does control of the heart hold the key to survival in a warming world in a diving ectotherm?**  
 Jonathon Schwartz  
 Honours thesis, Bachelor of Marine Studies, University of Queensland  
-Submitted in November 2014.  
+Submitted in November 2014  
 Supervised by Prof. Craig Franklin  
 [thesis](publications/2014_MarSt_honours_thesis.pdf)
