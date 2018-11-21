@@ -10,7 +10,7 @@ Jonathon Schwartz
 Honours thesis, Bachelor of Marine Studies, University of Queensland  
 Submitted in November 2014.  
 Supervised by Prof. Craig Franklin  
-[thesis](publications/2015_MarSt_honours_thesis.pdf)
+[thesis](publications/2014_MarSt_honours_thesis.pdf)
 
 **Autonomous Penetration Testing using Reinforcement Learning**  
 Jonathon Schwartz  
